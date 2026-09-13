@@ -1,4 +1,4 @@
-# 【投資判断更新】FCF・成長・需給 2026-09-13
+# 【投資判断更新】FCF・成長・需給 2026-09-14
 
 メールは要約版です。このページに理由、コメント、テクニカル、フォワード検証を集約しています。
 
@@ -23,25 +23,25 @@
 | Rank | Code | Name | 前回比 | 分類 | Score | Score差 | 投資判断 | FCF利回り | ROE | 売上成長 | 20日 |
 | ---: | --- | --- | --- | --- | ---: | ---: | --- | ---: | ---: | ---: | ---: |
 | 1 | [7131](https://kabutan.jp/stock/?code=7131) | のむら産業 | 継続 | AVOID | 71.7 | 0.0 | 見送り: 悪材料・データ警告・基準不足 | 17.7% | 24.1% | 9.6% | 6.9% |
-| 2 | [6912](https://kabutan.jp/stock/?code=6912) | 菊水ホールディングス(菊水HD) | 順位上昇 | QUALITY_WATCH | 62.6 | 0.0 | 良質監視: FCFは良いが買い時ではない | 6.4% | 10.8% | 6.9% | 0.8% |
-| 3 | [6702](https://kabutan.jp/stock/?code=6702) | 富士通 | 順位上昇 | EARLY_SETUP | 61.6 | -0.3 | 初動監視: 出来高と材料の確認待ち | 7.4% | 23.8% | 0.2% | -2.4% |
-| 4 | [4979](https://kabutan.jp/stock/?code=4979) | OATアグリオ(OATアグリ) | 順位上昇 | QUALITY_WATCH | 61.1 | 0.0 | 良質監視: FCFは良いが買い時ではない | 10.6% | 13.4% | 5.9% | 8.2% |
-| 5 | [1436](https://kabutan.jp/stock/?code=1436) | グリーンエナジー&カンパニー(グリーンエナ) | 順位上昇 | QUALITY_WATCH | 61.0 | -0.3 | 良質監視: FCFは良いが買い時ではない | 4.8% | 9.1% | 17.1% | 3.3% |
-| 6 | [3083](https://kabutan.jp/stock/?code=3083) | スターシーズ | 順位上昇 | QUALITY_WATCH | 59.0 | -0.3 | 良質監視: FCFは良いが買い時ではない | -6.2% | 3.5% | 237.1% | 30.4% |
-| 7 | [296A](https://kabutan.jp/stock/?code=296A) | 令和アカウンティング・ホールディングス(令和AH) | 順位上昇 | BUY_SETUP | 56.4 | -0.1 | 買いセットアップ: 一次資料確認後に分割で検討 | 2.9% | 49.6% | 10.4% | 25.1% |
-| 8 | [304A](https://kabutan.jp/stock/?code=304A) | フォルシア | 順位上昇 | AVOID | 55.5 | 0.0 | 見送り: 悪材料・データ警告・基準不足 | 2.4% | 2.5% | 41.7% | 1.2% |
-| 9 | [4475](https://kabutan.jp/stock/?code=4475) | HENNGE | 順位上昇 | BUY_SETUP | 54.5 | 0.0 | 買いセットアップ: 一次資料確認後に分割で検討 | 2.6% | 40.6% | 17.5% | 6.7% |
-| 10 | [9272](https://kabutan.jp/stock/?code=9272) | ブティックス | 順位上昇 | QUALITY_WATCH | 53.3 | 0.0 | 良質監視: FCFは良いが買い時ではない | 9.2% | 26.7% | 28.4% | -1.1% |
-| 11 | [9433](https://kabutan.jp/stock/?code=9433) | KDDI | 順位上昇 | BUY_SETUP | 52.9 | 0.0 | 買いセットアップ: 一次資料確認後に分割で検討 | 5.8% | 14.0% | 5.6% | 5.3% |
-| 12 | [4684](https://kabutan.jp/stock/?code=4684) | オービック | 順位上昇 | BUY_SETUP | 52.4 | 0.0 | 買いセットアップ: 一次資料確認後に分割で検討 | 3.0% | 15.8% | 10.0% | 4.1% |
-| 13 | [9543](https://kabutan.jp/stock/?code=9543) | 静岡ガス(静ガス) | 順位上昇 | AVOID | 52.3 | 0.0 | 見送り: 悪材料・データ警告・基準不足 | 1.5% | 8.1% | -0.0% | 8.7% |
-| 14 | [4220](https://kabutan.jp/stock/?code=4220) | リケンテクノス(リケンテクノ) | 順位上昇 | QUALITY_WATCH | 52.1 | 0.0 | 良質監視: FCFは良いが買い時ではない | 9.5% | 11.4% | 10.4% | -14.3% |
-| 15 | [6023](https://kabutan.jp/stock/?code=6023) | ダイハツインフィニアース(ダイハツイン) | 順位上昇 | AVOID | 51.4 | 0.0 | 見送り: 悪材料・データ警告・基準不足 | -5.1% | 12.7% | 21.5% | 6.3% |
-| 16 | [7122](https://kabutan.jp/stock/?code=7122) | 近畿車輛(近畿車) | 順位上昇 | QUALITY_WATCH | 51.3 | 0.0 | 良質監視: FCFは良いが買い時ではない | 92.5% | 4.5% | 42.9% | 0.9% |
-| 17 | [3626](https://kabutan.jp/stock/?code=3626) | TISI | 順位上昇 | BUY_SETUP | 51.2 | 0.0 | 買いセットアップ: 一次資料確認後に分割で検討 | 6.1% | 14.0% | 3.9% | 0.9% |
-| 18 | [4674](https://kabutan.jp/stock/?code=4674) | クレスコ | 順位上昇 | AVOID | 51.2 | 0.0 | 見送り: 悪材料・データ警告・基準不足 | 5.5% | 16.4% | 10.6% | -10.9% |
-| 19 | [4373](https://kabutan.jp/stock/?code=4373) | シンプレクス・ホールディングス(シンプレクス) | 順位上昇 | QUALITY_WATCH | 51.2 | 0.0 | 良質監視: FCFは良いが買い時ではない | 4.8% | 21.0% | 19.3% | -5.5% |
-| 20 | [1438](https://kabutan.jp/stock/?code=1438) | 岐阜造園 | 順位上昇 | AVOID | 50.4 | 0.0 | 見送り: 悪材料・データ警告・基準不足 | 4.2% | 9.7% | 3.7% | 5.0% |
+| 2 | [6912](https://kabutan.jp/stock/?code=6912) | 菊水ホールディングス(菊水HD) | 継続 | STALE | 62.6 | 0.0 | 継続欄へ: 新しい変化なし | 6.4% | 10.8% | 6.9% | 0.8% |
+| 3 | [6702](https://kabutan.jp/stock/?code=6702) | 富士通 | 継続 | EARLY_SETUP | 61.2 | -0.3 | 初動監視: 出来高と材料の確認待ち | 7.4% | 23.8% | 0.2% | -2.4% |
+| 4 | [4979](https://kabutan.jp/stock/?code=4979) | OATアグリオ(OATアグリ) | 継続 | STALE | 61.1 | 0.0 | 継続欄へ: 新しい変化なし | 10.6% | 13.4% | 5.9% | 8.2% |
+| 5 | [1436](https://kabutan.jp/stock/?code=1436) | グリーンエナジー&カンパニー(グリーンエナ) | 継続 | STALE | 60.6 | -0.3 | 継続欄へ: 新しい変化なし | 4.8% | 9.1% | 17.1% | 3.3% |
+| 6 | [3083](https://kabutan.jp/stock/?code=3083) | スターシーズ | 継続 | STALE | 58.7 | -0.3 | 継続欄へ: 新しい変化なし | -6.2% | 3.5% | 237.1% | 30.4% |
+| 7 | [296A](https://kabutan.jp/stock/?code=296A) | 令和アカウンティング・ホールディングス(令和AH) | 継続 | BUY_SETUP | 56.2 | -0.1 | 買いセットアップ: 一次資料確認後に分割で検討 | 2.9% | 49.6% | 10.4% | 25.1% |
+| 8 | [304A](https://kabutan.jp/stock/?code=304A) | フォルシア | 継続 | AVOID | 55.5 | 0.0 | 見送り: 悪材料・データ警告・基準不足 | 2.4% | 2.5% | 41.7% | 1.2% |
+| 9 | [4475](https://kabutan.jp/stock/?code=4475) | HENNGE | 継続 | BUY_SETUP | 54.5 | 0.0 | 買いセットアップ: 一次資料確認後に分割で検討 | 2.6% | 40.6% | 17.5% | 6.7% |
+| 10 | [9272](https://kabutan.jp/stock/?code=9272) | ブティックス | 継続 | STALE | 53.3 | 0.0 | 継続欄へ: 新しい変化なし | 9.2% | 26.7% | 28.4% | -1.1% |
+| 11 | [9433](https://kabutan.jp/stock/?code=9433) | KDDI | 継続 | BUY_SETUP | 52.9 | 0.0 | 買いセットアップ: 一次資料確認後に分割で検討 | 5.8% | 14.0% | 5.6% | 5.3% |
+| 12 | [4684](https://kabutan.jp/stock/?code=4684) | オービック | 継続 | BUY_SETUP | 52.4 | 0.0 | 買いセットアップ: 一次資料確認後に分割で検討 | 3.0% | 15.8% | 10.0% | 4.1% |
+| 13 | [9543](https://kabutan.jp/stock/?code=9543) | 静岡ガス(静ガス) | 継続 | AVOID | 52.3 | 0.0 | 見送り: 悪材料・データ警告・基準不足 | 1.5% | 8.1% | -0.0% | 8.7% |
+| 14 | [4220](https://kabutan.jp/stock/?code=4220) | リケンテクノス(リケンテクノ) | 継続 | STALE | 52.1 | 0.0 | 継続欄へ: 新しい変化なし | 9.5% | 11.4% | 10.4% | -14.3% |
+| 15 | [6023](https://kabutan.jp/stock/?code=6023) | ダイハツインフィニアース(ダイハツイン) | 継続 | AVOID | 51.4 | 0.0 | 見送り: 悪材料・データ警告・基準不足 | -5.1% | 12.7% | 21.5% | 6.3% |
+| 16 | [7122](https://kabutan.jp/stock/?code=7122) | 近畿車輛(近畿車) | 継続 | STALE | 51.3 | 0.0 | 継続欄へ: 新しい変化なし | 92.5% | 4.5% | 42.9% | 0.9% |
+| 17 | [3626](https://kabutan.jp/stock/?code=3626) | TISI | 継続 | BUY_SETUP | 51.2 | 0.0 | 買いセットアップ: 一次資料確認後に分割で検討 | 6.1% | 14.0% | 3.9% | 0.9% |
+| 18 | [4674](https://kabutan.jp/stock/?code=4674) | クレスコ | 継続 | AVOID | 51.2 | 0.0 | 見送り: 悪材料・データ警告・基準不足 | 5.5% | 16.4% | 10.6% | -10.9% |
+| 19 | [4373](https://kabutan.jp/stock/?code=4373) | シンプレクス・ホールディングス(シンプレクス) | 継続 | STALE | 51.2 | 0.0 | 継続欄へ: 新しい変化なし | 4.8% | 21.0% | 19.3% | -5.5% |
+| 20 | [1438](https://kabutan.jp/stock/?code=1438) | 岐阜造園 | 継続 | AVOID | 50.4 | 0.0 | 見送り: 悪材料・データ警告・基準不足 | 4.2% | 9.7% | 3.7% | 5.0% |
 
 ## 詳細コメント
 
@@ -61,7 +61,7 @@
 
 </details>
 
-<details><summary>2. 6912 菊水ホールディングス(菊水HD) Score 62.6 / QUALITY_WATCH</summary>
+<details><summary>2. 6912 菊水ホールディングス(菊水HD) Score 62.6 / STALE</summary>
 
 | 項目 | 内容 |
 | --- | --- |
@@ -77,7 +77,7 @@
 
 </details>
 
-<details><summary>3. 6702 富士通 Score 61.6 / EARLY_SETUP</summary>
+<details><summary>3. 6702 富士通 Score 61.2 / EARLY_SETUP</summary>
 
 | 項目 | 内容 |
 | --- | --- |
@@ -93,7 +93,7 @@
 
 </details>
 
-<details><summary>4. 4979 OATアグリオ(OATアグリ) Score 61.1 / QUALITY_WATCH</summary>
+<details><summary>4. 4979 OATアグリオ(OATアグリ) Score 61.1 / STALE</summary>
 
 | 項目 | 内容 |
 | --- | --- |
@@ -109,7 +109,7 @@
 
 </details>
 
-<details><summary>5. 1436 グリーンエナジー&amp;カンパニー(グリーンエナ) Score 61.0 / QUALITY_WATCH</summary>
+<details><summary>5. 1436 グリーンエナジー&amp;カンパニー(グリーンエナ) Score 60.6 / STALE</summary>
 
 | 項目 | 内容 |
 | --- | --- |
@@ -125,7 +125,7 @@
 
 </details>
 
-<details><summary>6. 3083 スターシーズ Score 59.0 / QUALITY_WATCH</summary>
+<details><summary>6. 3083 スターシーズ Score 58.7 / STALE</summary>
 
 | 項目 | 内容 |
 | --- | --- |
@@ -141,7 +141,7 @@
 
 </details>
 
-<details><summary>7. 296A 令和アカウンティング・ホールディングス(令和AH) Score 56.4 / BUY_SETUP</summary>
+<details><summary>7. 296A 令和アカウンティング・ホールディングス(令和AH) Score 56.2 / BUY_SETUP</summary>
 
 | 項目 | 内容 |
 | --- | --- |
@@ -189,7 +189,7 @@
 
 </details>
 
-<details><summary>10. 9272 ブティックス Score 53.3 / QUALITY_WATCH</summary>
+<details><summary>10. 9272 ブティックス Score 53.3 / STALE</summary>
 
 | 項目 | 内容 |
 | --- | --- |
@@ -253,7 +253,7 @@
 
 </details>
 
-<details><summary>14. 4220 リケンテクノス(リケンテクノ) Score 52.1 / QUALITY_WATCH</summary>
+<details><summary>14. 4220 リケンテクノス(リケンテクノ) Score 52.1 / STALE</summary>
 
 | 項目 | 内容 |
 | --- | --- |
@@ -285,7 +285,7 @@
 
 </details>
 
-<details><summary>16. 7122 近畿車輛(近畿車) Score 51.3 / QUALITY_WATCH</summary>
+<details><summary>16. 7122 近畿車輛(近畿車) Score 51.3 / STALE</summary>
 
 | 項目 | 内容 |
 | --- | --- |
@@ -333,7 +333,7 @@
 
 </details>
 
-<details><summary>19. 4373 シンプレクス・ホールディングス(シンプレクス) Score 51.2 / QUALITY_WATCH</summary>
+<details><summary>19. 4373 シンプレクス・ホールディングス(シンプレクス) Score 51.2 / STALE</summary>
 
 | 項目 | 内容 |
 | --- | --- |
