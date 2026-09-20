@@ -1,4 +1,4 @@
-# 【投資判断更新】FCF・成長・需給 2026-09-20
+# 【投資判断更新】FCF・成長・需給 2026-09-21
 
 メールは要約版です。このページに理由、コメント、テクニカル、フォワード検証を集約しています。
 
@@ -22,26 +22,26 @@
 
 | Rank | Code | Name | 前回比 | 分類 | Score | Score差 | 投資判断 | FCF利回り | ROE | 売上成長 | 20日 |
 | ---: | --- | --- | --- | --- | ---: | ---: | --- | ---: | ---: | ---: | ---: |
-| 1 | [7131](https://kabutan.jp/stock/?code=7131) | のむら産業 | 継続 | AVOID | 71.7 | 4.0 | 見送り: 悪材料・データ警告・基準不足 | 17.8% | 24.1% | 9.6% | 4.4% |
-| 2 | [296A](https://kabutan.jp/stock/?code=296A) | 令和アカウンティング・ホールディングス(令和AH) | 継続 | BUY_SETUP | 69.3 | -0.3 | 買いセットアップ: 一次資料確認後に分割で検討 | 2.8% | 49.6% | 10.4% | 12.4% |
-| 3 | [6702](https://kabutan.jp/stock/?code=6702) | 富士通 | 継続 | BUY_SETUP | 66.3 | -2.3 | 買いセットアップ: 一次資料確認後に分割で検討 | 7.0% | 23.8% | 0.2% | 9.1% |
-| 4 | [9272](https://kabutan.jp/stock/?code=9272) | ブティックス | 継続 | STALE | 63.7 | 3.0 | 継続欄へ: 新しい変化なし | 8.8% | 26.7% | 28.4% | 3.4% |
-| 5 | [6912](https://kabutan.jp/stock/?code=6912) | 菊水ホールディングス(菊水HD) | 継続 | STALE | 61.4 | 0.0 | 継続欄へ: 新しい変化なし | 5.9% | 10.8% | 6.9% | 9.3% |
-| 6 | [304A](https://kabutan.jp/stock/?code=304A) | フォルシア | 順位上昇 | AVOID | 61.2 | 4.0 | 見送り: 悪材料・データ警告・基準不足 | 2.4% | 2.5% | 41.7% | 5.1% |
-| 7 | [4979](https://kabutan.jp/stock/?code=4979) | OATアグリオ(OATアグリ) | 継続 | STALE | 60.8 | 0.0 | 継続欄へ: 新しい変化なし | 10.3% | 13.4% | 5.9% | 6.0% |
-| 8 | [3798](https://kabutan.jp/stock/?code=3798) | ULSグループ(ULSグルプ) | 順位上昇 | AVOID | 58.8 | 4.0 | 見送り: 悪材料・データ警告・基準不足 | 4.1% | 18.8% | 21.7% | 6.8% |
-| 9 | [6629](https://kabutan.jp/stock/?code=6629) | テクノホライゾン(Tホライゾン) | 順位上昇 | QUALITY_WATCH | 58.3 | 3.9 | 良質監視: FCFは良いが買い時ではない | 22.2% | 22.0% | 7.0% | 3.8% |
-| 10 | [7122](https://kabutan.jp/stock/?code=7122) | 近畿車輛(近畿車) | 継続 | STALE | 58.0 | 0.0 | 継続欄へ: 新しい変化なし | 89.2% | 4.5% | 42.9% | 3.0% |
-| 11 | [1436](https://kabutan.jp/stock/?code=1436) | グリーンエナジー&カンパニー(グリーンエナ) | 継続 | STALE | 56.6 | -0.3 | 継続欄へ: 新しい変化なし | 4.7% | 9.1% | 17.1% | 11.0% |
-| 12 | [3083](https://kabutan.jp/stock/?code=3083) | スターシーズ | 継続 | STALE | 56.1 | -1.3 | 継続欄へ: 新しい変化なし | -5.7% | 3.5% | 237.1% | 24.2% |
+| 1 | [7131](https://kabutan.jp/stock/?code=7131) | のむら産業 | 継続 | AVOID | 71.7 | 0.0 | 見送り: 悪材料・データ警告・基準不足 | 17.8% | 24.1% | 9.6% | 4.4% |
+| 2 | [296A](https://kabutan.jp/stock/?code=296A) | 令和アカウンティング・ホールディングス(令和AH) | 継続 | BUY_SETUP | 69.0 | -0.3 | 買いセットアップ: 一次資料確認後に分割で検討 | 2.8% | 49.6% | 10.4% | 12.4% |
+| 3 | [6702](https://kabutan.jp/stock/?code=6702) | 富士通 | 継続 | BUY_SETUP | 65.9 | -0.3 | 買いセットアップ: 一次資料確認後に分割で検討 | 7.0% | 23.8% | 0.2% | 9.1% |
+| 4 | [9272](https://kabutan.jp/stock/?code=9272) | ブティックス | 分類変更 STALE→QUALITY_WATCH | QUALITY_WATCH | 63.7 | 0.0 | 良質監視: FCFは良いが買い時ではない | 8.8% | 26.7% | 28.4% | 3.4% |
+| 5 | [6912](https://kabutan.jp/stock/?code=6912) | 菊水ホールディングス(菊水HD) | 分類変更 STALE→QUALITY_WATCH | QUALITY_WATCH | 61.4 | 0.0 | 良質監視: FCFは良いが買い時ではない | 5.9% | 10.8% | 6.9% | 9.3% |
+| 6 | [304A](https://kabutan.jp/stock/?code=304A) | フォルシア | 継続 | AVOID | 61.2 | 0.0 | 見送り: 悪材料・データ警告・基準不足 | 2.4% | 2.5% | 41.7% | 5.1% |
+| 7 | [4979](https://kabutan.jp/stock/?code=4979) | OATアグリオ(OATアグリ) | 分類変更 STALE→QUALITY_WATCH | QUALITY_WATCH | 60.8 | 0.0 | 良質監視: FCFは良いが買い時ではない | 10.3% | 13.4% | 5.9% | 6.0% |
+| 8 | [3798](https://kabutan.jp/stock/?code=3798) | ULSグループ(ULSグルプ) | 継続 | AVOID | 58.8 | 0.0 | 見送り: 悪材料・データ警告・基準不足 | 4.1% | 18.8% | 21.7% | 6.8% |
+| 9 | [6629](https://kabutan.jp/stock/?code=6629) | テクノホライゾン(Tホライゾン) | 継続 | STALE | 58.2 | -0.1 | 継続欄へ: 新しい変化なし | 22.2% | 22.0% | 7.0% | 3.8% |
+| 10 | [7122](https://kabutan.jp/stock/?code=7122) | 近畿車輛(近畿車) | 分類変更 STALE→QUALITY_WATCH | QUALITY_WATCH | 58.0 | 0.0 | 良質監視: FCFは良いが買い時ではない | 89.2% | 4.5% | 42.9% | 3.0% |
+| 11 | [1436](https://kabutan.jp/stock/?code=1436) | グリーンエナジー&カンパニー(グリーンエナ) | 分類変更 STALE→QUALITY_WATCH | QUALITY_WATCH | 56.3 | -0.3 | 良質監視: FCFは良いが買い時ではない | 4.7% | 9.1% | 17.1% | 11.0% |
+| 12 | [3083](https://kabutan.jp/stock/?code=3083) | スターシーズ | 分類変更 STALE→QUALITY_WATCH | QUALITY_WATCH | 55.8 | -0.3 | 良質監視: FCFは良いが買い時ではない | -5.7% | 3.5% | 237.1% | 24.2% |
 | 13 | [4475](https://kabutan.jp/stock/?code=4475) | HENNGE | 継続 | BUY_SETUP | 54.2 | 0.0 | 買いセットアップ: 一次資料確認後に分割で検討 | 2.4% | 40.6% | 17.5% | 18.7% |
 | 14 | [6098](https://kabutan.jp/stock/?code=6098) | リクルートホールディングス(リクルート) | 継続 | BUY_SETUP | 54.1 | 0.0 | 買いセットアップ: 一次資料確認後に分割で検討 | 2.4% | 31.1% | 14.4% | 9.1% |
 | 15 | [4376](https://kabutan.jp/stock/?code=4376) | くふうカンパニーホールディングス(くふうカンパ) | 継続 | AVOID | 53.8 | 0.0 | 見送り: 悪材料・データ警告・基準不足 | 0.7% | -% | 20.5% | 6.8% |
-| 16 | [4417](https://kabutan.jp/stock/?code=4417) | グローバルセキュリティエキスパート(Gセキュリ) | 継続 | STALE | 53.0 | 0.0 | 継続欄へ: 新しい変化なし | 1.1% | 39.7% | 25.0% | 27.1% |
+| 16 | [4417](https://kabutan.jp/stock/?code=4417) | グローバルセキュリティエキスパート(Gセキュリ) | 分類変更 STALE→QUALITY_WATCH | QUALITY_WATCH | 53.0 | 0.0 | 良質監視: FCFは良いが買い時ではない | 1.1% | 39.7% | 25.0% | 27.1% |
 | 17 | [9433](https://kabutan.jp/stock/?code=9433) | KDDI | 継続 | BUY_SETUP | 52.8 | 0.0 | 買いセットアップ: 一次資料確認後に分割で検討 | 5.8% | 14.0% | 5.6% | 5.0% |
-| 18 | [421A](https://kabutan.jp/stock/?code=421A) | ムービン・ストラテジック・キャリア(ムービン) | 継続 | STALE | 52.7 | 0.0 | 継続欄へ: 新しい変化なし | 5.1% | 41.2% | 68.5% | -8.4% |
+| 18 | [421A](https://kabutan.jp/stock/?code=421A) | ムービン・ストラテジック・キャリア(ムービン) | 分類変更 STALE→QUALITY_WATCH | QUALITY_WATCH | 52.7 | 0.0 | 良質監視: FCFは良いが買い時ではない | 5.1% | 41.2% | 68.5% | -8.4% |
 | 19 | [9543](https://kabutan.jp/stock/?code=9543) | 静岡ガス(静ガス) | 継続 | AVOID | 52.3 | 0.0 | 見送り: 悪材料・データ警告・基準不足 | 1.5% | 8.1% | -0.0% | 8.1% |
-| 20 | [4220](https://kabutan.jp/stock/?code=4220) | リケンテクノス(リケンテクノ) | 継続 | STALE | 51.9 | 0.0 | 継続欄へ: 新しい変化なし | 9.3% | 11.4% | 10.4% | -11.1% |
+| 20 | [4220](https://kabutan.jp/stock/?code=4220) | リケンテクノス(リケンテクノ) | 分類変更 STALE→QUALITY_WATCH | QUALITY_WATCH | 51.9 | 0.0 | 良質監視: FCFは良いが買い時ではない | 9.3% | 11.4% | 10.4% | -11.1% |
 
 ## 詳細コメント
 
@@ -61,7 +61,7 @@
 
 </details>
 
-<details><summary>2. 296A 令和アカウンティング・ホールディングス(令和AH) Score 69.3 / BUY_SETUP</summary>
+<details><summary>2. 296A 令和アカウンティング・ホールディングス(令和AH) Score 69.0 / BUY_SETUP</summary>
 
 | 項目 | 内容 |
 | --- | --- |
@@ -77,7 +77,7 @@
 
 </details>
 
-<details><summary>3. 6702 富士通 Score 66.3 / BUY_SETUP</summary>
+<details><summary>3. 6702 富士通 Score 65.9 / BUY_SETUP</summary>
 
 | 項目 | 内容 |
 | --- | --- |
@@ -93,7 +93,7 @@
 
 </details>
 
-<details><summary>4. 9272 ブティックス Score 63.7 / STALE</summary>
+<details><summary>4. 9272 ブティックス Score 63.7 / QUALITY_WATCH</summary>
 
 | 項目 | 内容 |
 | --- | --- |
@@ -109,7 +109,7 @@
 
 </details>
 
-<details><summary>5. 6912 菊水ホールディングス(菊水HD) Score 61.4 / STALE</summary>
+<details><summary>5. 6912 菊水ホールディングス(菊水HD) Score 61.4 / QUALITY_WATCH</summary>
 
 | 項目 | 内容 |
 | --- | --- |
@@ -141,7 +141,7 @@
 
 </details>
 
-<details><summary>7. 4979 OATアグリオ(OATアグリ) Score 60.8 / STALE</summary>
+<details><summary>7. 4979 OATアグリオ(OATアグリ) Score 60.8 / QUALITY_WATCH</summary>
 
 | 項目 | 内容 |
 | --- | --- |
@@ -173,7 +173,7 @@
 
 </details>
 
-<details><summary>9. 6629 テクノホライゾン(Tホライゾン) Score 58.3 / QUALITY_WATCH</summary>
+<details><summary>9. 6629 テクノホライゾン(Tホライゾン) Score 58.2 / STALE</summary>
 
 | 項目 | 内容 |
 | --- | --- |
@@ -189,7 +189,7 @@
 
 </details>
 
-<details><summary>10. 7122 近畿車輛(近畿車) Score 58.0 / STALE</summary>
+<details><summary>10. 7122 近畿車輛(近畿車) Score 58.0 / QUALITY_WATCH</summary>
 
 | 項目 | 内容 |
 | --- | --- |
@@ -205,7 +205,7 @@
 
 </details>
 
-<details><summary>11. 1436 グリーンエナジー&amp;カンパニー(グリーンエナ) Score 56.6 / STALE</summary>
+<details><summary>11. 1436 グリーンエナジー&amp;カンパニー(グリーンエナ) Score 56.3 / QUALITY_WATCH</summary>
 
 | 項目 | 内容 |
 | --- | --- |
@@ -221,7 +221,7 @@
 
 </details>
 
-<details><summary>12. 3083 スターシーズ Score 56.1 / STALE</summary>
+<details><summary>12. 3083 スターシーズ Score 55.8 / QUALITY_WATCH</summary>
 
 | 項目 | 内容 |
 | --- | --- |
@@ -285,7 +285,7 @@
 
 </details>
 
-<details><summary>16. 4417 グローバルセキュリティエキスパート(Gセキュリ) Score 53.0 / STALE</summary>
+<details><summary>16. 4417 グローバルセキュリティエキスパート(Gセキュリ) Score 53.0 / QUALITY_WATCH</summary>
 
 | 項目 | 内容 |
 | --- | --- |
@@ -317,7 +317,7 @@
 
 </details>
 
-<details><summary>18. 421A ムービン・ストラテジック・キャリア(ムービン) Score 52.7 / STALE</summary>
+<details><summary>18. 421A ムービン・ストラテジック・キャリア(ムービン) Score 52.7 / QUALITY_WATCH</summary>
 
 | 項目 | 内容 |
 | --- | --- |
@@ -349,7 +349,7 @@
 
 </details>
 
-<details><summary>20. 4220 リケンテクノス(リケンテクノ) Score 51.9 / STALE</summary>
+<details><summary>20. 4220 リケンテクノス(リケンテクノ) Score 51.9 / QUALITY_WATCH</summary>
 
 | 項目 | 内容 |
 | --- | --- |
