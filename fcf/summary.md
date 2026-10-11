@@ -1,4 +1,4 @@
-# 【投資判断更新】FCF・成長・需給 2026-10-11
+# 【投資判断更新】FCF・成長・需給 2026-10-12
 
 メールは要約版です。このページに理由、コメント、テクニカル、フォワード検証を集約しています。
 
@@ -22,30 +22,30 @@
 
 | Rank | Code | Name | 前回比 | 分類 | Score | Score差 | 投資判断 | FCF利回り | ROE | 売上成長 | 20日 |
 | ---: | --- | --- | --- | --- | ---: | ---: | --- | ---: | ---: | ---: | ---: |
-| 1 | [9272](https://kabutan.jp/stock/?code=9272) | ブティックス | 分類変更 STALE→QUALITY_WATCH | QUALITY_WATCH | 70.1 | 0.0 | 良質監視: FCFは良いが買い時ではない | 8.5% | 26.7% | 28.4% | 6.6% |
-| 2 | [6629](https://kabutan.jp/stock/?code=6629) | テクノホライゾン(Tホライゾン) | 継続 | STALE | 67.0 | -0.1 | 継続欄へ: 新しい変化なし | 21.2% | 22.0% | 7.0% | 6.3% |
-| 3 | [6912](https://kabutan.jp/stock/?code=6912) | 菊水ホールディングス(菊水HD) | 分類変更 STALE→QUALITY_WATCH | QUALITY_WATCH | 60.0 | 0.0 | 良質監視: FCFは良いが買い時ではない | 5.5% | 10.8% | 6.9% | 14.9% |
+| 1 | [9272](https://kabutan.jp/stock/?code=9272) | ブティックス | 継続 | STALE | 70.1 | 0.0 | 継続欄へ: 新しい変化なし | 8.5% | 26.7% | 28.4% | 6.6% |
+| 2 | [6629](https://kabutan.jp/stock/?code=6629) | テクノホライゾン(Tホライゾン) | 分類変更 STALE→QUALITY_WATCH | QUALITY_WATCH | 66.9 | -0.1 | 良質監視: FCFは良いが買い時ではない | 21.2% | 22.0% | 7.0% | 6.3% |
+| 3 | [6912](https://kabutan.jp/stock/?code=6912) | 菊水ホールディングス(菊水HD) | 継続 | STALE | 60.0 | 0.0 | 継続欄へ: 新しい変化なし | 5.5% | 10.8% | 6.9% | 14.9% |
 | 4 | [7131](https://kabutan.jp/stock/?code=7131) | のむら産業 | 継続 | AVOID | 59.7 | 0.0 | 見送り: 悪材料・データ警告・基準不足 | 18.1% | 24.1% | 9.6% | -2.0% |
-| 5 | [4417](https://kabutan.jp/stock/?code=4417) | グローバルセキュリティエキスパート(Gセキュリ) | 分類変更 STALE→QUALITY_WATCH | QUALITY_WATCH | 59.6 | -0.1 | 良質監視: FCFは良いが買い時ではない | 1.0% | 39.7% | 25.0% | 55.7% |
+| 5 | [4417](https://kabutan.jp/stock/?code=4417) | グローバルセキュリティエキスパート(Gセキュリ) | 継続 | STALE | 59.5 | -0.1 | 継続欄へ: 新しい変化なし | 1.0% | 39.7% | 25.0% | 55.7% |
 | 6 | [304A](https://kabutan.jp/stock/?code=304A) | フォルシア | 継続 | AVOID | 58.1 | 0.0 | 見送り: 悪材料・データ警告・基準不足 | 2.2% | 2.5% | 41.7% | 11.5% |
-| 7 | [421A](https://kabutan.jp/stock/?code=421A) | ムービン・ストラテジック・キャリア(ムービン) | 分類変更 STALE→QUALITY_WATCH | QUALITY_WATCH | 56.7 | 0.0 | 良質監視: FCFは良いが買い時ではない | 4.4% | 41.2% | 68.5% | 14.9% |
+| 7 | [421A](https://kabutan.jp/stock/?code=421A) | ムービン・ストラテジック・キャリア(ムービン) | 継続 | STALE | 56.7 | 0.0 | 継続欄へ: 新しい変化なし | 4.4% | 41.2% | 68.5% | 14.9% |
 | 8 | [3916](https://kabutan.jp/stock/?code=3916) | デジタル・インフォメーション・テクノロジー(DIT) | 継続 | BUY_SETUP | 56.7 | 0.0 | 買いセットアップ: 一次資料確認後に分割で検討 | 5.7% | 24.4% | 4.5% | 9.1% |
 | 9 | [6857](https://kabutan.jp/stock/?code=6857) | アドバンテスト(アドテスト) | 継続 | BUY_SETUP | 56.5 | 0.0 | 買いセットアップ: 一次資料確認後に分割で検討 | 1.0% | 57.6% | 51.9% | 23.1% |
 | 10 | [4475](https://kabutan.jp/stock/?code=4475) | HENNGE | 継続 | AVOID | 56.1 | 0.0 | 見送り: 悪材料・データ警告・基準不足 | 2.3% | 40.6% | 17.5% | 19.1% |
-| 11 | [4220](https://kabutan.jp/stock/?code=4220) | リケンテクノス(リケンテクノ) | 分類変更 EARLY_SETUP→QUALITY_WATCH | QUALITY_WATCH | 55.5 | -4.0 | 良質監視: FCFは良いが買い時ではない | 9.0% | 11.4% | 10.4% | 3.3% |
-| 12 | [5932](https://kabutan.jp/stock/?code=5932) | 三協立山 | 分類変更 STALE→QUALITY_WATCH | QUALITY_WATCH | 55.4 | -0.3 | 良質監視: FCFは良いが買い時ではない | -2.7% | -14.8% | 9.1% | 15.3% |
+| 11 | [4220](https://kabutan.jp/stock/?code=4220) | リケンテクノス(リケンテクノ) | 継続 | STALE | 55.5 | 0.0 | 継続欄へ: 新しい変化なし | 9.0% | 11.4% | 10.4% | 3.3% |
+| 12 | [5932](https://kabutan.jp/stock/?code=5932) | 三協立山 | 継続 | STALE | 55.1 | -0.3 | 継続欄へ: 新しい変化なし | -2.7% | -14.8% | 9.1% | 15.3% |
 | 13 | [4674](https://kabutan.jp/stock/?code=4674) | クレスコ | 継続 | AVOID | 54.5 | 0.0 | 見送り: 悪材料・データ警告・基準不足 | 4.8% | 16.4% | 10.6% | 11.1% |
 | 14 | [5803](https://kabutan.jp/stock/?code=5803) | フジクラ | 継続 | BUY_SETUP | 53.7 | 0.0 | 買いセットアップ: 一次資料確認後に分割で検討 | 1.0% | 32.5% | 48.4% | 6.5% |
 | 15 | [3371](https://kabutan.jp/stock/?code=3371) | ソフトクリエイトホールディングス(ソフトクリエ) | 継続 | BUY_SETUP | 53.0 | 0.0 | 買いセットアップ: 一次資料確認後に分割で検討 | 0.2% | 18.2% | 7.6% | 10.4% |
 | 16 | [3917](https://kabutan.jp/stock/?code=3917) | アイリッジ | 継続 | AVOID | 52.7 | 0.0 | 見送り: 悪材料・データ警告・基準不足 | 11.0% | 23.2% | 15.8% | -0.6% |
-| 17 | [4373](https://kabutan.jp/stock/?code=4373) | シンプレクス・ホールディングス(シンプレクス) | 投資基準から脱落 | EARLY_SETUP | 52.1 | -4.0 | 初動監視: 出来高と材料の確認待ち | 4.5% | 21.0% | 19.3% | 4.1% |
+| 17 | [4373](https://kabutan.jp/stock/?code=4373) | シンプレクス・ホールディングス(シンプレクス) | 継続 | EARLY_SETUP | 52.1 | 0.0 | 初動監視: 出来高と材料の確認待ち | 4.5% | 21.0% | 19.3% | 4.1% |
 | 18 | [6098](https://kabutan.jp/stock/?code=6098) | リクルートホールディングス(リクルート) | 継続 | BUY_SETUP | 52.0 | 0.0 | 買いセットアップ: 一次資料確認後に分割で検討 | 2.4% | 31.1% | 14.4% | 13.2% |
 | 19 | [3064](https://kabutan.jp/stock/?code=3064) | MonotaRO(モノタロウ) | 継続 | BUY_SETUP | 51.7 | 0.0 | 買いセットアップ: 一次資料確認後に分割で検討 | 1.5% | 28.7% | 14.2% | 14.6% |
 | 20 | [4684](https://kabutan.jp/stock/?code=4684) | オービック | 継続 | BUY_SETUP | 51.5 | 0.0 | 買いセットアップ: 一次資料確認後に分割で検討 | 2.8% | 15.8% | 10.0% | 8.0% |
 
 ## 詳細コメント
 
-<details><summary>1. 9272 ブティックス Score 70.1 / QUALITY_WATCH</summary>
+<details><summary>1. 9272 ブティックス Score 70.1 / STALE</summary>
 
 | 項目 | 内容 |
 | --- | --- |
@@ -61,7 +61,7 @@
 
 </details>
 
-<details><summary>2. 6629 テクノホライゾン(Tホライゾン) Score 67.0 / STALE</summary>
+<details><summary>2. 6629 テクノホライゾン(Tホライゾン) Score 66.9 / QUALITY_WATCH</summary>
 
 | 項目 | 内容 |
 | --- | --- |
@@ -77,7 +77,7 @@
 
 </details>
 
-<details><summary>3. 6912 菊水ホールディングス(菊水HD) Score 60.0 / QUALITY_WATCH</summary>
+<details><summary>3. 6912 菊水ホールディングス(菊水HD) Score 60.0 / STALE</summary>
 
 | 項目 | 内容 |
 | --- | --- |
@@ -109,7 +109,7 @@
 
 </details>
 
-<details><summary>5. 4417 グローバルセキュリティエキスパート(Gセキュリ) Score 59.6 / QUALITY_WATCH</summary>
+<details><summary>5. 4417 グローバルセキュリティエキスパート(Gセキュリ) Score 59.5 / STALE</summary>
 
 | 項目 | 内容 |
 | --- | --- |
@@ -141,7 +141,7 @@
 
 </details>
 
-<details><summary>7. 421A ムービン・ストラテジック・キャリア(ムービン) Score 56.7 / QUALITY_WATCH</summary>
+<details><summary>7. 421A ムービン・ストラテジック・キャリア(ムービン) Score 56.7 / STALE</summary>
 
 | 項目 | 内容 |
 | --- | --- |
@@ -205,7 +205,7 @@
 
 </details>
 
-<details><summary>11. 4220 リケンテクノス(リケンテクノ) Score 55.5 / QUALITY_WATCH</summary>
+<details><summary>11. 4220 リケンテクノス(リケンテクノ) Score 55.5 / STALE</summary>
 
 | 項目 | 内容 |
 | --- | --- |
@@ -221,7 +221,7 @@
 
 </details>
 
-<details><summary>12. 5932 三協立山 Score 55.4 / QUALITY_WATCH</summary>
+<details><summary>12. 5932 三協立山 Score 55.1 / STALE</summary>
 
 | 項目 | 内容 |
 | --- | --- |
