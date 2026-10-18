@@ -1,4 +1,4 @@
-# 【投資判断更新】FCF・成長・需給 2026-10-18
+# 【投資判断更新】FCF・成長・需給 2026-10-19
 
 メールは要約版です。このページに理由、コメント、テクニカル、フォワード検証を集約しています。
 
@@ -22,14 +22,14 @@
 
 | Rank | Code | Name | 前回比 | 分類 | Score | Score差 | 投資判断 | FCF利回り | ROE | 売上成長 | 20日 |
 | ---: | --- | --- | --- | --- | ---: | ---: | --- | ---: | ---: | ---: | ---: |
-| 1 | [9560](https://kabutan.jp/stock/?code=9560) | プログリット | 分類変更 STALE→QUALITY_WATCH | QUALITY_WATCH | 91.9 | -0.3 | 良質監視: FCFは良いが買い時ではない | 9.8% | 49.7% | 24.2% | 27.7% |
-| 2 | [6098](https://kabutan.jp/stock/?code=6098) | リクルートホールディングス(リクルート) | 継続 | BUY_SETUP | 74.6 | -0.3 | 買いセットアップ: 一次資料確認後に分割で検討 | 2.3% | 31.1% | 14.4% | 11.7% |
-| 3 | [9272](https://kabutan.jp/stock/?code=9272) | ブティックス | 継続 | STALE | 69.8 | 0.0 | 継続欄へ: 新しい変化なし | 8.3% | 26.7% | 28.4% | 8.4% |
+| 1 | [9560](https://kabutan.jp/stock/?code=9560) | プログリット | 継続 | STALE | 91.6 | -0.3 | 継続欄へ: 新しい変化なし | 9.8% | 49.7% | 24.2% | 27.7% |
+| 2 | [6098](https://kabutan.jp/stock/?code=6098) | リクルートホールディングス(リクルート) | 継続 | BUY_SETUP | 74.3 | -0.3 | 買いセットアップ: 一次資料確認後に分割で検討 | 2.3% | 31.1% | 14.4% | 11.7% |
+| 3 | [9272](https://kabutan.jp/stock/?code=9272) | ブティックス | 分類変更 STALE→QUALITY_WATCH | QUALITY_WATCH | 69.8 | 0.0 | 良質監視: FCFは良いが買い時ではない | 8.3% | 26.7% | 28.4% | 8.4% |
 | 4 | [4220](https://kabutan.jp/stock/?code=4220) | リケンテクノス(リケンテクノ) | 継続 | BUY_SETUP | 61.4 | 0.0 | 買いセットアップ: 一次資料確認後に分割で検討 | 8.9% | 11.4% | 10.4% | 6.8% |
 | 5 | [6912](https://kabutan.jp/stock/?code=6912) | 菊水ホールディングス(菊水HD) | 継続 | AVOID | 61.2 | 0.0 | 見送り: 悪材料・データ警告・基準不足 | 5.4% | 10.8% | 6.9% | 18.1% |
-| 6 | [421A](https://kabutan.jp/stock/?code=421A) | ムービン・ストラテジック・キャリア(ムービン) | 分類変更 STALE→QUALITY_WATCH | QUALITY_WATCH | 60.9 | 0.0 | 良質監視: FCFは良いが買い時ではない | 4.5% | 41.2% | 68.5% | 17.7% |
+| 6 | [421A](https://kabutan.jp/stock/?code=421A) | ムービン・ストラテジック・キャリア(ムービン) | 継続 | STALE | 60.9 | 0.0 | 継続欄へ: 新しい変化なし | 4.5% | 41.2% | 68.5% | 17.7% |
 | 7 | [4373](https://kabutan.jp/stock/?code=4373) | シンプレクス・ホールディングス(シンプレクス) | 継続 | BUY_SETUP | 59.2 | 0.0 | 買いセットアップ: 一次資料確認後に分割で検討 | 4.2% | 21.0% | 19.3% | 9.2% |
-| 8 | [4417](https://kabutan.jp/stock/?code=4417) | グローバルセキュリティエキスパート(Gセキュリ) | 継続 | STALE | 58.7 | -0.1 | 継続欄へ: 新しい変化なし | 0.9% | 39.7% | 25.0% | 49.8% |
+| 8 | [4417](https://kabutan.jp/stock/?code=4417) | グローバルセキュリティエキスパート(Gセキュリ) | 分類変更 STALE→QUALITY_WATCH | QUALITY_WATCH | 58.5 | -0.1 | 良質監視: FCFは良いが買い時ではない | 0.9% | 39.7% | 25.0% | 49.8% |
 | 9 | [4674](https://kabutan.jp/stock/?code=4674) | クレスコ | 継続 | AVOID | 56.7 | 0.0 | 見送り: 悪材料・データ警告・基準不足 | 4.4% | 16.4% | 10.6% | 19.9% |
 | 10 | [7131](https://kabutan.jp/stock/?code=7131) | のむら産業 | 継続 | AVOID | 55.7 | 0.0 | 見送り: 悪材料・データ警告・基準不足 | 18.1% | 24.1% | 9.6% | -3.1% |
 | 11 | [6857](https://kabutan.jp/stock/?code=6857) | アドバンテスト(アドテスト) | 継続 | EARLY_SETUP | 54.6 | 0.0 | 初動監視: 出来高と材料の確認待ち | 1.2% | 57.6% | 51.9% | 11.1% |
@@ -37,15 +37,15 @@
 | 13 | [4475](https://kabutan.jp/stock/?code=4475) | HENNGE | 継続 | BUY_SETUP | 53.9 | 0.0 | 買いセットアップ: 一次資料確認後に分割で検討 | 2.1% | 40.6% | 17.5% | 18.9% |
 | 14 | [4376](https://kabutan.jp/stock/?code=4376) | くふうカンパニーホールディングス(くふうカンパ) | 継続 | AVOID | 53.8 | 0.0 | 見送り: 悪材料・データ警告・基準不足 | 0.6% | -% | 20.5% | 9.0% |
 | 15 | [3064](https://kabutan.jp/stock/?code=3064) | MonotaRO(モノタロウ) | 継続 | BUY_SETUP | 53.6 | 0.0 | 買いセットアップ: 一次資料確認後に分割で検討 | 1.4% | 28.7% | 14.2% | 20.1% |
-| 16 | [5932](https://kabutan.jp/stock/?code=5932) | 三協立山 | 継続 | STALE | 53.1 | -0.3 | 継続欄へ: 新しい変化なし | -2.6% | -14.8% | 9.1% | 19.3% |
+| 16 | [5932](https://kabutan.jp/stock/?code=5932) | 三協立山 | 分類変更 STALE→QUALITY_WATCH | QUALITY_WATCH | 52.8 | -0.3 | 良質監視: FCFは良いが買い時ではない | -2.6% | -14.8% | 9.1% | 19.3% |
 | 17 | [9889](https://kabutan.jp/stock/?code=9889) | JBCCホールディングス(JBCCHD) | 継続 | AVOID | 51.9 | 0.0 | 見送り: 悪材料・データ警告・基準不足 | 4.3% | 21.8% | 4.6% | 26.0% |
-| 18 | [3939](https://kabutan.jp/stock/?code=3939) | カナミックネットワーク(カナミックN) | 継続 | STALE | 51.4 | 0.0 | 継続欄へ: 新しい変化なし | 2.3% | 26.2% | 15.5% | 2.0% |
+| 18 | [3939](https://kabutan.jp/stock/?code=3939) | カナミックネットワーク(カナミックN) | 分類変更 STALE→QUALITY_WATCH | QUALITY_WATCH | 51.4 | 0.0 | 良質監視: FCFは良いが買い時ではない | 2.3% | 26.2% | 15.5% | 2.0% |
 | 19 | [4684](https://kabutan.jp/stock/?code=4684) | オービック | 継続 | BUY_SETUP | 51.4 | 0.0 | 買いセットアップ: 一次資料確認後に分割で検討 | 2.6% | 15.8% | 10.0% | 12.2% |
-| 20 | [3798](https://kabutan.jp/stock/?code=3798) | ULSグループ(ULSグルプ) | 継続 | AVOID | 50.7 | -4.0 | 見送り: 悪材料・データ警告・基準不足 | 4.1% | 18.8% | 21.7% | 4.1% |
+| 20 | [3798](https://kabutan.jp/stock/?code=3798) | ULSグループ(ULSグルプ) | 継続 | AVOID | 50.7 | 0.0 | 見送り: 悪材料・データ警告・基準不足 | 4.1% | 18.8% | 21.7% | 4.1% |
 
 ## 詳細コメント
 
-<details><summary>1. 9560 プログリット Score 91.9 / QUALITY_WATCH</summary>
+<details><summary>1. 9560 プログリット Score 91.6 / STALE</summary>
 
 | 項目 | 内容 |
 | --- | --- |
@@ -61,7 +61,7 @@
 
 </details>
 
-<details><summary>2. 6098 リクルートホールディングス(リクルート) Score 74.6 / BUY_SETUP</summary>
+<details><summary>2. 6098 リクルートホールディングス(リクルート) Score 74.3 / BUY_SETUP</summary>
 
 | 項目 | 内容 |
 | --- | --- |
@@ -77,7 +77,7 @@
 
 </details>
 
-<details><summary>3. 9272 ブティックス Score 69.8 / STALE</summary>
+<details><summary>3. 9272 ブティックス Score 69.8 / QUALITY_WATCH</summary>
 
 | 項目 | 内容 |
 | --- | --- |
@@ -125,7 +125,7 @@
 
 </details>
 
-<details><summary>6. 421A ムービン・ストラテジック・キャリア(ムービン) Score 60.9 / QUALITY_WATCH</summary>
+<details><summary>6. 421A ムービン・ストラテジック・キャリア(ムービン) Score 60.9 / STALE</summary>
 
 | 項目 | 内容 |
 | --- | --- |
@@ -157,7 +157,7 @@
 
 </details>
 
-<details><summary>8. 4417 グローバルセキュリティエキスパート(Gセキュリ) Score 58.7 / STALE</summary>
+<details><summary>8. 4417 グローバルセキュリティエキスパート(Gセキュリ) Score 58.5 / QUALITY_WATCH</summary>
 
 | 項目 | 内容 |
 | --- | --- |
@@ -285,7 +285,7 @@
 
 </details>
 
-<details><summary>16. 5932 三協立山 Score 53.1 / STALE</summary>
+<details><summary>16. 5932 三協立山 Score 52.8 / QUALITY_WATCH</summary>
 
 | 項目 | 内容 |
 | --- | --- |
@@ -317,7 +317,7 @@
 
 </details>
 
-<details><summary>18. 3939 カナミックネットワーク(カナミックN) Score 51.4 / STALE</summary>
+<details><summary>18. 3939 カナミックネットワーク(カナミックN) Score 51.4 / QUALITY_WATCH</summary>
 
 | 項目 | 内容 |
 | --- | --- |
